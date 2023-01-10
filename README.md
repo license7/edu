@@ -9,7 +9,7 @@ edu
  
  https://github.com/sotoedu/node-red/blob/main/exam000/000function.txt
  
- 
+음성변환: https://speech.selvasai.com/text-to-speech-demonstration 
  
  http://localhost:1880/ui
  
